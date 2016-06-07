@@ -13,5 +13,10 @@ will happen when this file is edited on master.
 well make sure to cause a conflict when pulling from github
 
 made this change on branch clean_up
+
 made changes to readme while on clean_up branch
-made changes to readme while on clean_up branch
+
+another change onto this file, from clean_up, also checking if I have to stage
+a file everytime I need to commit
+	YES
+added a second change to README from check_out
