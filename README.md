@@ -1,4 +1,4 @@
-# hello-world
+
 just another repository to be used to teach myself
 
 edit number 2 is to be made
@@ -12,3 +12,6 @@ will happen when this file is edited on master.
 
 well make sure to cause a conflict when pulling from github
 
+made this change on branch clean_up
+made changes to readme while on clean_up branch
+made changes to readme while on clean_up branch
