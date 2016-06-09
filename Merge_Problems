@@ -3,7 +3,12 @@ Github_clean_up: writting this on this branch
 Local_clean_up: made a change, on local, want to see if I could only change
 the corresponding branch on the github repo.
 
+<<<<<<< c1e6bed32fa9dce33a5f4e67e5062f6e047e92bd
 Github_clean_up: writting this with the hopes of getting a merge confilict when 
 merge with local branch
 
+=======
+Local_clean_up: changing things around local in hopes of a
+merge conflict to occur when fetch and merge.
+>>>>>>> added text to Merge_problems in the hopes of a merge conflict, viva la revilicion
 
